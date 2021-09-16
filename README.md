@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @kaueramone
+- 👀 I’m interested in learning.
+- 🌱 I’m currently learning PHP.
+- 📫 Follow me in instagram.com/kaueramone
